@@ -4,23 +4,29 @@ draft: false
 ---
 
 ### Example Cipher:
-**T**o en**co**de **a** mes**s**age e**ac**h letter **of** the **pl**a**i**nt**ex**t **i**s replaced b**y a g**rou**p of f**i**ve** o**f t**he l**et**te**rs 'A' or 'B'.**
 
+**T**hi**S** is an exa**MP**l**E C**lu**E, G**ood luck!.  
 .  
+
 
 When *decoding*, replace each letter with an 'a' or '**b**'.  
 'a' if the letter is standard, '**b**' if the letter is **bold**.  
 
 ### The example would look like this:
-**b**a aa**bb**aa **b** aaa**b**aaa a**bb**a aaaaaa **bb** aaa **bb**a**b**aa**bb**a **b**a aaaaaaaa a**b** **b** **b**aaa**b** **bb** **b**a**bb** a**b** **b**aa a**bb**aa**bb** ‘**b**’ **bb** ‘**b**’.
+
+**b**aa**b** aa aa aaa**bb**a**b b**aa**b, b**aaa aaaa!.  
+
+Note, punctuation should not be included when decoding the cipher.
 
 ### These letters are then grouped together in fives like this:
-**b**aaa**b**(S) **b**aa**b**a(T) aa**b**aa(E) aa**bb**a(G) aaaaa(A) a**bb**aa(N) a**bb**a**b**(O) aa**bb**a(G) **b**aaaa(R) aaaaa(A) a**bbb**a(P) aa**bbb**(H) **b**a**bb**a(Y) **bb**aaa **bb**aa**b** **bbbbb**
+
+**b**aa**b**a(S) aaaaa(A) a**bb**a**b**(N) **b**aa**bb**(T) aaaaa(A) aa
+
 
 Each group of five letters corresponds to a letter in the table below.  
-So the example decoded message is *'steganography'*.  
+So the example decoded message is *'santa'*.  
 
-(where the last three groups | **bb**aaa **bb**aa**b** **bbbbb** |, being unintelligible, are assumed not to form part of the message.)
+(where the last two letters, not making a full group of five, are ignored.)
 
 | Letter | Code  |  | Letter | Code |
 |:-------|:-----:|:--:|:------:|------:|
