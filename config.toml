@@ -4,3 +4,10 @@ title = 'Clue 2 | Bacon Cipher'
 theme = "paper"
 
 
+[menu]
+
+  [[menu.main]]
+    identifier = "websitecarbon"
+    name = "This Website's Carbon"
+    url = "https://www.websitecarbon.com/website/treasurehuntclue-netlify-app/"
+    weight = 10

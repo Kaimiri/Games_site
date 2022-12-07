@@ -1,32 +1,40 @@
 ---
-title: "! How to decode a bacon cipher"
+title: "! Example Page"
 draft: false
 ---
 
-### Example Cipher:
+Read through this example page to understand how to solve a Bacon Cipher, then solve your team's clue.  
+ 
+**Note:** Some of Santa's elves thought this clue was far too easy with a clear explanation so some steps have been hidden.  
+**It is against the rules to search up further material to solve the Bacon Cipher.**
 
+*  
+### Example clue:
 **T**hi**S** is an exa**MP**l**E C**lu**E, G**ood luck!.  
-.  
 
+*[Note, punctuation should not be included when decoding the cipher.]*  
 
-When *decoding*, replace each letter with an 'a' or '**b**'.  
-'a' if the letter is standard, '**b**' if the letter is **bold**.  
+## Step 1:
 
-### The example would look like this:
+*  
 
-**b**aa**b** aa aa aaa**bb**a**b b**aa**b, b**aaa aaaa!.  
+*hidden step*  
 
-Note, punctuation should not be included when decoding the cipher.
+*  
 
-### These letters are then grouped together in fives like this:
+### The result to this step is: 
 
-**b**aa**b**a(S) aaaaa(A) a**bb**a**b**(N) **b**aa**bb**(T) aaaaa(A) aa
+**b**aa**b** aa aa aaa**bb**a**b b**aa**b, b**aaa aaaa!  
 
+## Step 2:  
 
-Each group of five letters corresponds to a letter in the table below.  
-So the example decoded message is *'santa'*.  
+*  
 
-(where the last two letters, not making a full group of five, are ignored.)
+*hidden step*  
+
+*  
+
+## Step 3:
 
 | Letter | Code  |  | Letter | Code |
 |:-------|:-----:|:--:|:------:|------:|
@@ -42,4 +50,6 @@ So the example decoded message is *'santa'*.
 | J      | a**b**aa**b** |  | W      | **b**a**bb**a |
 | K      | a**b**a**b**a |  | X      | **b**a**bbb** |
 | L      | a**b**a**bb** |  | Y      | **bb**aaa |
-| M      | a**bb**aa |  | Z      | **bb**aa**b** |
+| M      | a**bb**aa |  | Z      | **bb**aa**b** |  
+
+The answer to this example cipher is '***santa***'
