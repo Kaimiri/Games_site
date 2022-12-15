@@ -3,4 +3,4 @@ title: "Red Clue"
 draft: false
 ---
 
-r**ED** team, wel**L** don**E** so f**A**r! yo**U WI**ll **N**eed to go **T**he e**X**a**M**p**LE PA**ge to so**L**ve **T**his **C**l**U**e. **Y**o**U** have **G**o**T T**his!
+r**ED** team, goo**D** job **S**o fa**R**! you **WIL**l n**E**ed to go t**O** the **E**x**A**m**PLE P**age to s**O**lv**E** thi**S** c**L**u**E**. y**O**u've g**O**t **TH**is!

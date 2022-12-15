@@ -10,7 +10,7 @@ Read through this example page to understand how to solve a Bacon Cipher, then s
 
 *  
 ### Example clue:
-**T**hi**S** is an exa**MP**l**E C**lu**E, G**ood luck!.  
+**T**hi**S** is an exa**MP**l**E C**lu**E, G**ood luck!  
 
 *[Note, punctuation should not be included when decoding the cipher.]*  
 
