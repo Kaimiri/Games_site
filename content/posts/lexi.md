@@ -1,10 +1,10 @@
 ---
 title: "Lexi"
-date: 2023-04-02T16:38:12+01:00
+date: "2023-04-02"
 draft: false
 ---
 
-## Go to the example page to help you solve this clue
+### Go to the example page to help you solve this clue
 
 WooHoo! YoU're NearlY This YeAR's EGG wInnEr. iN true SQuIshMEllow StYlE, roLl yoUR wAy To tHe end!
 

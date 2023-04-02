@@ -7,7 +7,7 @@ draft: false
 Read through this example page to understand how to solve a Bacon Cipher, then solve your clue.  
  
 **Note:** Some of the Easter bunnies thought this clue was far too easy with a clear explanation so some steps have been hidden.  
-**It is against the rules to search up further material to solve the Bacon Cipher.**
+**You can ask someone to help you if you get stuck.**
 
 *  
 ### Example clue:
@@ -53,4 +53,4 @@ aab aaaaaaa baab abaabba abaa ba aaba aaa.
 | L      | a**b**a**bb** |  | Y      | **bb**aaa |
 | M      | a**bb**aa |  | Z      | **bb**aa**b** |  
 
-The answer to this example cipher is '***easter***'
+The answer to this example cipher is ***'easter'***
