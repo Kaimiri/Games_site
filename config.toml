@@ -1,5 +1,5 @@
 baseURL = 'https://treasurehuntclue.netlify.app'
-languageCode = 'en-uk'
+languageCode = 'en-us'
 title = 'Easter Egg Hunt 🐇'
 theme = "paper"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
