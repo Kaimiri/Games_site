@@ -1,16 +1,17 @@
 ---
-title: "! Example Page"
+title: "Example Page"
+date: 2023-04-02T16:40:12+01:00
 draft: false
 ---
 
-Read through this example page to understand how to solve a Bacon Cipher, then solve your team's clue.  
+Read through this example page to understand how to solve a Bacon Cipher, then solve your clue.  
  
-**Note:** Some of Santa's elves thought this clue was far too easy with a clear explanation so some steps have been hidden.  
+**Note:** Some of the Easter bunnies thought this clue was far too easy with a clear explanation so some steps have been hidden.  
 **It is against the rules to search up further material to solve the Bacon Cipher.**
 
 *  
 ### Example clue:
-**T**hi**S** is an exa**MP**l**E C**lu**E, G**ood luck!  
+trY solving ThiS eXamPLe cLue To heLp you.
 
 *[Note, punctuation should not be included when decoding the cipher.]*  
 
@@ -24,7 +25,7 @@ Read through this example page to understand how to solve a Bacon Cipher, then s
 
 ### The result to this step is: 
 
-**b**aa**b** aa aa aaa**bb**a**b b**aa**b, b**aaa aaaa!  
+aab aaaaaaa baab abaabba abaa ba aaba aaa.
 
 ## Step 2:  
 
@@ -52,4 +53,4 @@ Read through this example page to understand how to solve a Bacon Cipher, then s
 | L      | a**b**a**bb** |  | Y      | **bb**aaa |
 | M      | a**bb**aa |  | Z      | **bb**aa**b** |  
 
-The answer to this example cipher is '***santa***'
+The answer to this example cipher is '***easter***'
