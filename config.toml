@@ -8,6 +8,6 @@ copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights 
 
   [[menu.main]]
     identifier = "websitecarbon"
-    name = "This Website's Carbon"
+    name = ""
     url = "https://www.websitecarbon.com/website/easteregghunt-netlify-app/"
     weight = 10

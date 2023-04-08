@@ -6,36 +6,36 @@ draft: false
 
 Read through this example page to understand how to solve a Bacon Cipher, then solve your clue.  
  
-**Note:** Some of the Easter bunnies thought this clue was far too easy with a clear explanation so some steps have been hidden.  
 **You can ask someone to help you if you get stuck.**
 
 *  
 ### Example clue:
 trY solving ThiS eXamPLe cLue To heLp you.
 
-*[Note, punctuation should not be included when decoding the cipher.]*  
+* 
 
 ## Step 1:
 
-*  
-
-*hidden step*  
-
-*  
+Replace all of the lowercase letters with 'a' and the UPPERCASE letters with 'b'.
 
 ### The result to this step is: 
 
 aab aaaaaaa baab abaabba abaa ba aaba aaa.
 
+* 
+
 ## Step 2:  
 
-*  
+Put the letters into groups of five.
 
-*hidden step*  
+### The result to this step is: 
+aabaa aaaaa baaba baabb aabaa baaab aaaa
 
-*  
+* 
 
 ## Step 3:
+
+Use this table to change the groups of five into their corresponding letters
 
 | Letter | Code  |  | Letter | Code |
 |:-------|:-----:|:--:|:------:|------:|
@@ -53,4 +53,6 @@ aab aaaaaaa baab abaabba abaa ba aaba aaa.
 | L      | a**b**a**bb** |  | Y      | **bb**aaa |
 | M      | a**bb**aa |  | Z      | **bb**aa**b** |  
 
-The answer to this example cipher is ***'easter'***
+Ignore any remaining letters that do not make a full group of five.
+
+So the answer to this example cipher is ***'easter'***.
