@@ -1,4 +1,4 @@
-baseURL = 'https://easteregghunt.netlify.app'
+baseURL = 'https://familytreasurehunt.netlify.app'
 languageCode = 'en-us'
 title = 'Family Treasure Hunt 🎄'
 theme = "paper"

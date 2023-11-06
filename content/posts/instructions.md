@@ -9,4 +9,4 @@ Welcome to the treasure hunt! There are five bags of puzzle pieces hidden around
 
 You may want a few team members as dedicated puzzle-solvers. Perhaps if you have team members who don't want to solve problems and run around finding puzzle pieces - (or who just want mince pies with a lovely puzzle).
 
-#### Go [here](http://localhost:1313/posts/clue) for your first clue.
+#### Go [here](http://familytreasurehunt.netlify.app/posts/clue) for your first clue.
