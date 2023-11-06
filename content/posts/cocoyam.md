@@ -5,6 +5,8 @@ draft: false
 type: "Hidden"
 ---
 
+# Well done team!
+
 ## Blue Team:
 Riddle for blue team
 
