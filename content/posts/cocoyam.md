@@ -1,7 +1,8 @@
 ---
 title: "Cocoyam"
 date: 2023-11-06T14:52:48Z
-draft: true
+draft: false
+type: "Hidden"
 ---
 
 ## Blue Team:
