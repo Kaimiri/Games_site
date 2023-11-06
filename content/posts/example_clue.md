@@ -1,7 +1,7 @@
 ---
 title: "Example Page"
 date: 2023-04-02T16:40:12+01:00
-draft: false
+draft: true
 ---
 
 Read through this example page to understand how to solve a Bacon Cipher, then solve your clue.  

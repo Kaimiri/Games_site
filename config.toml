@@ -1,13 +1,7 @@
 baseURL = 'https://easteregghunt.netlify.app'
 languageCode = 'en-us'
-title = 'Easter Egg Hunt 🐇'
+title = 'Family Treasure Hunt 🎄'
 theme = "paper"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 
-[menu]
 
-  [[menu.main]]
-    identifier = "websitecarbon"
-    name = ""
-    url = "https://www.websitecarbon.com/website/easteregghunt-netlify-app/"
-    weight = 10
